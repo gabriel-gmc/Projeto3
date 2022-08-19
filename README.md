@@ -6,9 +6,9 @@
 
 # Nome do Projeto
 
-## Nome do Grupo
+## Apex Devs
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/bruno-wasserstein-04b6b1209/">Bruno Wasserstein</a>, <a href="https://www.linkedin.com/in/felipe-zillo-72b367247/">Felipe Zillo</a>, <a href="https://www.linkedin.com/in/gabriel-gallo-m-coutinho-443809232/">Gabriel Gallo</a>, <a href="https://www.linkedin.com/in/joao-victor-montagna-4bb3a4247/">João Montagna</a>, <a href="https://www.linkedin.com/in/rafael-mateus-zimmer-techio-6679091a0/">Rafael Techio</a>, <a href="https://www.linkedin.com/in/renan-ribeiro-31a205247/">Renan Ribeiro</a>, <a href="https://www.linkedin.com/in/yago-phellipe-777247247/">Yago Matos</a>
 
 ## Descrição
 
